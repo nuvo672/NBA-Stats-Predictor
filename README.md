@@ -1,3 +1,6 @@
+
+[![Python](https://img.shields.io/badge/Python-%E2%89%A5%203.6-yellow.svg)](https://www.python.org/) 
+
 # NBA-Stats-Predictor
 
 ## Run the following commands:
