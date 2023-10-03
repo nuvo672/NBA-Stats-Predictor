@@ -2,7 +2,7 @@
 
 ## Run:
 
-#git clone https://github.com/nuvo672/NBA-Stats-Predictor.git
+git clone https://github.com/nuvo672/NBA-Stats-Predictor.git
 
 pip install -r requirements.txt
 
