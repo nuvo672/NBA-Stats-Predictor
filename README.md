@@ -17,6 +17,6 @@ python NBAPointsPredictor.py
 
 ## 
 
-### Specify Paths in Settings Tab
+### Specify Paths in 'Settings' Tab (default)
 ![image](https://raw.githubusercontent.com/nuvo672/NBA-Stats-Predictor/main/imgs/image.png)
 ### Make your predictions!
