@@ -1,7 +1,7 @@
 
 [![Python](https://img.shields.io/badge/Python-%E2%89%A5%203.6-yellow.svg)](https://www.python.org/) 
 
-# NBA-stats-predictor
+# NBA-points-predictor
 
 
 This Python code creates a graphical user interface (GUI) application for predicting NBA player points in upcoming games. It uses libraries like Tkinter for the GUI, BeautifulSoup and Selenium for web scraping player data, and scikit-learn for machine learning predictions. 
