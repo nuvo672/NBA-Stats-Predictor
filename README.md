@@ -12,6 +12,6 @@ python NBAPointsPredictor.py
 
 ## 
 
-## Specify Paths in Settings Tab
+### Specify Paths in Settings Tab
 
-## Make your predictions!
+### Make your predictions!
